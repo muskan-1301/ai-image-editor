@@ -1,0 +1,21 @@
+# Environment variables & secrets
+.env
+.env.local
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary test scripts & logs
+check_lines.py
+*.log
+
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# OS artifacts
+Thumbs.db
+.DS_Store
